@@ -2,7 +2,7 @@
 
 Tableau public link :
 
-Dashboard 1 : https://public.tableau.com/views/Dashboard_16972092500790/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link   
+Dashboard 1 : https://public.tableau.com/views/Dashboard1_16972092500790/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link   
 
 Dashboard 2 :  https://public.tableau.com/views/Dashboard2_16972159031410/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link 							
 
